@@ -6,7 +6,7 @@
 
 ###  MCU 控制器
 
-- [STM](https://github.com/sochub/STM) 
+- [STM](https://github.com/sochub/ST) 
 - [AVR](https://github.com/sochub/AVR) 
 - [STC](https://github.com/sochub/STC) 
 - [WCH](https://github.com/sochub/WCH) 
