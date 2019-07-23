@@ -15,37 +15,41 @@
 * [L2厂商](L2/)
 	* [ST](https://github.com/sochub/ST) 
 	* [TI](https://github.com/sochub/TI) 
+	* [nuvoton](https://github.com/sochub/nuvoton) 
 	* [GigaDevice](https://github.com/sochub/GigaDevice) 
 * [L3厂商](L3/)
-	* [nuvoton](https://github.com/sochub/nuvoton) 
+	* [NXP](https://github.com/sochub/NXP) 
 
 
 ###  APU 类
 
 * [L4厂商](L4/)
-* [L5厂商](L5/)
 	* [allwinner](https://github.com/sochub/allwinner) 
 	* [rockchips](https://github.com/sochub/rockchips) 
-* [L6厂商](L6/)
+* [L5厂商](L5/)
 	* [mediatek](https://github.com/sochub/mediatek) 
-
+* [L6厂商](L6/)
+	* [Qualcomm](https://www.qualcomm.cn/) 
+	* [hisilicon](http://www.hisilicon.com/) 
 
 ###  CPU 类
 
 * [L7厂商](L7/)
+	* [nvidia](https://github.com/sochub/nvidia) 
 * [L8厂商](L8/)
 * [L9厂商](L9/)
 	* [AMD](https://github.com/sochub/AMD) 
 	* [intel](https://github.com/sochub/intel) 
-	* [nvidia](https://github.com/sochub/nvidia) 
 
 
 ###  射频通信
- 
+
+ * [CSR](https://github.com/sochub/CSR) 
 * [RTL](https://github.com/sochub/RTL) 
 * [RDA](https://github.com/sochub/RDA) 
-* [ESP](https://github.com/sochub/ESP) 
-* [CSR](https://github.com/sochub/CSR) 
+* [Nordic](https://github.com/sochub/Nordic) 
+* [espressif ](https://github.com/sochub/espressif ) 
+
 
 
 ###  [SoC资源平台](https://github.com/sochub)  
