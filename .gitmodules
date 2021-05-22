@@ -1,3 +1,0 @@
-[submodule "L1/nuvoton"]
-	path = L1/nuvoton
-	url = git@github.com:sochub/nuvoton.git

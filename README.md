@@ -1,55 +1,33 @@
-﻿# [厂商信息](https://github.com/sochub/vendor)
-[![sites](SoC/qitas.png)](http://www.qitas.cn) 
-####  qitas@qitas.cn
-#### 芯片定级：[Level](https://github.com/sochub/Level)
+﻿# [N76E616](https://github.com/SoCXin/N76E616)
 
-本项目用于整理收录广泛使用IC器件的半导体厂商相关信息，工程完善中，归类不准确。
+[![sites](http://182.61.61.133/link/resources/SoC.png)](http://www.SoC.Xin)
 
-## MCU 类
+[![Build Status](https://github.com/SoCXin/N76E616/workflows/src/badge.svg)](https://github.com/SoCXin/N76E616/actions/workflows/src.yml)
 
-* [L1厂商](L1/)
-	* [AVR](https://github.com/sochub/AVR) 
-	* [STC](https://github.com/sochub/STC) 
-	* [WCH](https://github.com/sochub/WCH) 
-	* [yspring](https://github.com/sochub/yspring) 
-* [L2厂商](L2/)
-	* [ST](https://github.com/sochub/ST) 
-	* [TI](https://github.com/sochub/TI) 
-	* [nuvoton](https://github.com/sochub/nuvoton) 
-	* [GigaDevice](https://github.com/sochub/GigaDevice) 
-* [L3厂商](L3/)
-	* [NXP](https://github.com/sochub/NXP) 
+* [nuvoton](http://www.nuvoton.com.cn/)：[8051](https://github.com/SoCXin/8051)
+* [Level](https://github.com/SoCXin/Level)：16MHz
 
+## [简介](http://www.SoC.Xin/N76E616)
 
-###  APU 类
+[N76E616](https://www.nuvoton.com.cn/products/microcontrollers/8bit-8051-mcus/low-pin-count-8051-series/n76e616/?tab=1) 是新唐高速1T 8051 单片机产品，18 KB Flash ROM、1 KB SRAM，在20pin封装下提供高达18根I/O脚位；周边包含双串口、SPI、I²C、6通道PWM输出；内建优于同类产品之 < 2% 误差之高精确度16 MHz RC晶振与高分辨率8通道12位ADC。
 
-* [L4厂商](L4/)
-	* [allwinner](https://github.com/sochub/allwinner) 
-	* [rockchips](https://github.com/sochub/rockchips) 
-* [L5厂商](L5/)
-	* [mediatek](https://github.com/sochub/mediatek) 
-* [L6厂商](L6/)
-	* [Qualcomm](https://www.qualcomm.cn/) 
-	* [hisilicon](http://www.hisilicon.com/) 
+[![sites](docs/N76E616.png)](https://www.nuvoton.com.cn/products/microcontrollers/8bit-8051-mcus/low-pin-count-8051-series/n76e616/?tab=1)
 
-###  CPU 类
+### 关键特性
 
-* [L7厂商](L7/)
-	* [nvidia](https://github.com/sochub/nvidia) 
-* [L8厂商](L8/)
-* [L9厂商](L9/)
-	* [AMD](https://github.com/sochub/AMD) 
-	* [intel](https://github.com/sochub/intel) 
+* 2.4V - 5.5V宽工作电压
+* 7KV ESD/4KV EFT
+* 8ch*12bit ADC
 
 
-###  射频通信
+### [资源收录](https://github.com/SoCXin/N76E616)
 
- * [CSR](https://github.com/sochub/CSR) 
-* [RTL](https://github.com/sochub/RTL) 
-* [RDA](https://github.com/sochub/RDA) 
-* [Nordic](https://github.com/sochub/Nordic) 
-* [espressif ](https://github.com/sochub/espressif ) 
+* [参考文档](docs/)
+* [参考资源](src/)
+* [参考工程](project/)
 
+### [选型建议](https://github.com/SoCXin)
 
+[N76E616](https://github.com/SoCXin/N76E616) 是 [N76E003](https://github.com/SoCXin/N76E003) 的有力补充，提供了LQFP48 和 LQFP44两种封装。
 
-###  [SoC资源平台](https://github.com/sochub)  
+###  [探索芯世界 www.SoC.xin](http://www.SoC.Xin)
